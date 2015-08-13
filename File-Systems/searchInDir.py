@@ -1,12 +1,17 @@
 # -*- coding: utf-8 -*-
+'''
+A simple search program using module os.
+'''
 
-__author__ = aresowj
+__author__ = 'aresowj'
 
 import os
 
 def searchInDir(keyword):
-    filelist = os.listdir('.')
-	result = []
+	'''The search function, will search in the working directory by default.'''
+	
+	filelist = os.listdir('.')	#Get a list of files under the working directory.
+	result = []		#List for the files matched.
 	
 	for n in filelist:
 		if keyword in n.lower():
@@ -17,8 +22,11 @@ def searchInDir(keyword):
 
 
 def main():
-	key = ''
-	while True:			
+	'''Main loop function.'''
+	
+	key = ''	#The keyword to be input.
+	
+	while True:	#Will not stop until keyboard interrupt		
 		key = input('\nPlease enter the keyword you want to find: ')
 		result = searchInDir(key.lower())
 		
