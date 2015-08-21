@@ -1,5 +1,5 @@
 # PyExerciseCodes
-Python Exercise Codes
-Just a space for holding some exercise codes in Python.
+A space for holding various of exercise codes written in Python.
+All codes written by Ares Ou (aresowj).
 
- - Ares Ou
+Please feel free to contact me at aresowj@gmail.com
