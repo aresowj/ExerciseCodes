@@ -1,5 +1,5 @@
-# PyExerciseCodes
-A space for holding various of exercise codes written in Python.
+# ExerciseCodes
+A space for holding various of exercise codes written in multiple languages.
 
 All codes written by Ares Ou (aresowj).
 
