@@ -2,7 +2,6 @@
 
 # Code to execute in an independent thread
 import time
-from threading import Thread
 
 
 def countdown(n):
@@ -12,6 +11,7 @@ def countdown(n):
         time.sleep(5)
 
 # Create and launch a thread
+from threading import Thread
 t = Thread(target=countdown, args=(10,), daemon=True)
 t.start()
 
@@ -20,3 +20,4 @@ while t.is_alive():
     time.sleep(2)
 
 print('Completed.')
+
