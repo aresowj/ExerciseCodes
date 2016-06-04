@@ -1,8 +1,7 @@
 .DS_Store
 .idea/
 .gradle/
-*.gradle
-*.setting
+build/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
