@@ -12,3 +12,4 @@ Now contains exercises / example code from these books:
   - The C Programming Language (C)
   - C++ Primer (C++)
   - Eloquent JavaScript (JavaScript)
+  - Scala for Impatient, Second Edition
