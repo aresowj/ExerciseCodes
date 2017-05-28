@@ -1,5 +1,5 @@
 # ExerciseCodes
-A space for holding various of exercise codes written in multiple languages.
+A space for holding various of exercise codes or interview questions written in multiple languages.
 
 All codes written by Ares Ou (aresowj).
 
@@ -13,3 +13,7 @@ Now contains exercises / example code from these books:
   - C++ Primer (C++)
   - Eloquent JavaScript (JavaScript)
   - Scala for Impatient, Second Edition
+  
+Interview code challenge solutions (No NDA restricted):
+
+  - Interview solutions for NepFin
