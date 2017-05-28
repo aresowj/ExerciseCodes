@@ -1,0 +1,41 @@
+.box {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    background: white;
+    margin: 15px 25px 15px 25px;
+    display: inline-block;
+    position: relative;
+}
+
+.box.invisible-border {
+    /* Used to make border invisible */
+    border: 1px solid transparent;;
+}
+
+.box.small {
+    background: #57D497;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    margin: 0 0 0 0;
+    top: 15px;
+    left: 40px;
+}
+
+.row:last-child {
+    margin-right: 0px;
+}
+
+.row {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.no-margin-top {
+    margin-top: 0px;
+}
+
+.no-margin-bottom {
+    margin-bottom: 0px;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Boxes</title>
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <script type="text/javascript" src="main.js"></script>
+    </head>
+
+    <body>
+        <div name="s-matrix" width="100%">
+            <div class="row" name="top_row">
+                <div class="box" onclick="boxOnClick(this);"> </div>
+                <div class="box" onclick="boxOnClick(this);"> </div>
+                <div class="box" onclick="boxOnClick(this);">
+                    <div class="box small"> </div>
+                </div>
+            </div>
+
+            <div class="row" name="top_row">
+                <div class="box no-margin-bottom" onclick="boxOnClick(this);"> </div>
+            </div>
+            
+            <div class="row" name="top_row">
+                <div class="box invisible-border no-margin-top no-margin-bottom" onclick="boxOnClick(this);"> </div>
+                <div class="box no-margin-top no-margin-bottom" onclick="boxOnClick(this);"> </div>
+                <div class="box invisible-border no-margin-top no-margin-bottom" onclick="boxOnClick(this);"> </div>
+            </div>
+            
+            <div class="row" name="top_row">
+                <div class="box invisible-border no-margin-top" onclick="boxOnClick(this);"> </div>
+                <div class="box invisible-border no-margin-top" onclick="boxOnClick(this);"> </div>
+                <div class="box no-margin-top" onclick="boxOnClick(this);"> </div>
+            </div>
+
+            <div class="row" name="bottom_row">
+                <div class="box" onclick="boxOnClick(this);"> </div>
+                <div class="box" onclick="boxOnClick(this);"> </div>
+                <div class="box" onclick="boxOnClick(this);"> </div>
+            </div>
+        </div>
+</html>

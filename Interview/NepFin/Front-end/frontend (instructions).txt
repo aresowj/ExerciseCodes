@@ -1,0 +1,4 @@
+
+11. when the background color of all the large squares has changed to blue:
+  a. the big squares will toggle back to white one by one, in the reverse order of which they turned to blue in, with a 300ms delay in between each color change
+  b. after all the big squares turn back to white, no reactions will happen when clicking on any of the big squares
