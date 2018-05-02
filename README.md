@@ -13,6 +13,7 @@ Now contains exercises / example code from these books:
   - C++ Primer (C++)
   - Eloquent JavaScript (JavaScript)
   - Scala for Impatient, Second Edition
+  - Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
   
 Interview code challenge solutions (No NDA restricted):
 
