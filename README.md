@@ -3,7 +3,7 @@ A space for holding various of exercise codes or interview questions written in 
 
 All codes written by Ares Ou (aresowj).
 
-Please feel free to contact me at aresowj@gmail.com
+Please feel free to contact me at 2023@aresou.net
 
 Now contains exercises / example code from these books:
 
