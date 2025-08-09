@@ -34,6 +34,7 @@ func main() {
 	http.ListenAndServe(":8080", nil)
 }
 
+
 /*
 examples
 $ curl -X POST http://localhost:8080/decode -H "Content-Typ
