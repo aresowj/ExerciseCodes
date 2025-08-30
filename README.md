@@ -1,9 +1,9 @@
 # ExerciseCodes
 A space for holding various of exercise codes or interview questions written in multiple languages.
 
-All codes written by Ares Ou (aresowj).
+All codes written by Weijie Ou.
 
-Please feel free to contact me at 2023@aresou.net
+Please feel free to contact me at contact@ouwww.com
 
 Now contains exercises / example code from these books:
 
@@ -14,6 +14,7 @@ Now contains exercises / example code from these books:
   - Eloquent JavaScript (JavaScript)
   - Scala for Impatient, Second Edition
   - Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)
+  - Golang exercise code
   
 Interview code challenge solutions (No NDA restricted):
 
